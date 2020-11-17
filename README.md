@@ -8,4 +8,9 @@ I am Anoop Varghese. My main interest lies in Web Development. I am always curio
 - 📫 How to reach me:
       * [My Portfolio](https://anoopv.me/)
       * Email : [anoopv@karunya.edu.in](mailto:anoopv@karunya.edu.in)
-   
+   <ul>
+<li>First item</li>
+<li>Second item</li>
+<li>Third item</li>
+<li>Fourth item</li>
+</ul>
