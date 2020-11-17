@@ -6,11 +6,7 @@ I am Anoop Varghese. My main interest lies in Web Development. I am always curio
 - 🌱 I’m currently learning **best practices for Web Development**...
 - 👯 I’m looking to collaborate on **Open Source** and **Web Development** projects...
 - 📫 How to reach me:
-      * [My Portfolio](https://anoopv.me/)
-      * Email : [anoopv@karunya.edu.in](mailto:anoopv@karunya.edu.in)
-   <ul>
-<li>First item</li>
-<li>Second item</li>
-<li>Third item</li>
-<li>Fourth item</li>
-</ul>
+      <ul>
+         <li>[My Portfolio](https://anoopv.me/)</li>
+         <li>Email : [anoopv@karunya.edu.in](mailto:anoopv@karunya.edu.in)</li>
+       </ul>
